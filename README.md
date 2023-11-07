@@ -8,8 +8,6 @@ This repository contains three code examples that demonstrate how to use neural 
 
 The Polynomial ODE Solver showcases the use of a scikit-learn MLPRegressor neural network to solve ODEs for polynomial functions. The code implements a neural network architecture to approximate ODE solutions and visualizes the results using Matplotlib.
 
-uctions and code for the Polynomial ODE Solver](code_example_1/README.md)
-
 ## Differential Equation Approximator
 
 ### Description
